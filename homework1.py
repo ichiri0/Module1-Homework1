@@ -8,7 +8,7 @@ grades = [
 
 ]
 
-students = {
+users1 = {
     'Johnny',
     'Bilbo',
     'Steve',
@@ -17,7 +17,7 @@ students = {
     'Test'
 }
 
-list_ = sorted(list(students))
+list_ = sorted(list(users1))
 
 print(sorted(list_))
 
